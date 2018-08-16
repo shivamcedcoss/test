@@ -1,0 +1,260 @@
+body{
+    margin: 60px 60px;
+    padding: 0;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+i{
+    color: green;
+    
+}
+
+
+
+#wrapper{
+	height:1800px;
+}
+
+#wrapper #first{
+	height: 600px;
+    background-image:url('banner.jpg');
+    width: 100%;
+	
+}
+
+#subheader{
+    background-color:  #383831cc; ;
+    height: 600px;
+}
+
+#nav-bar{
+  border-bottom: 1px solid black;
+    overflow: hidden;
+    background-color: none;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin: 0 10%;
+}
+
+#wrapper #first #nav-bar ul{
+	list-style-type: none;
+    margin: 0;
+    float: right;
+    padding: 0;
+    overflow: hidden;
+
+    
+}
+
+#wrapper #first #nav-bar li {
+    float: left;
+}
+
+#wrapper #first #nav-bar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+#line{
+    width: 100%;
+}
+
+#wrapper #first #para #pro{
+    
+    padding-top: 50px;
+    color: white;
+    margin: 0;
+    text-align: center;
+    
+    
+}
+
+
+
+#boxx{
+    width:60%;
+    text-align: center;
+    
+    margin:0 auto;
+    padding-top: 80px;
+    margin-left: 220px;
+    overflow: hidden;
+}
+
+
+
+.box-4{
+    width: 33.2%;
+    height:100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    float: left;
+    border-right: 1px solid black;
+   
+}
+
+#butt{
+    width: 100%;
+    height: 50px;
+    background-color: none;
+    text-align: center;
+}
+
+#button{
+    border: 3px solid green;
+    background: none; 
+    margin-top: 80px;
+    color: green;
+    font-size: 16px;
+    border-radius: 25px;
+    width: 250px;
+    padding: 10px;
+}
+
+
+
+#wrapper #second{
+    height: 600px;
+    width: 100%
+    padding:0;
+    margin: 0;
+    text-align: center;
+}
+
+#wrapper #second img{
+    border-radius: 50%;
+    padding: 0;
+    margin-top: 20px;
+}
+
+#wrapper #second #left{
+    width: 50%;
+    float:left;
+    height: 600px;
+    overflow: hidden;
+    margin-top: 40px;
+    padding: 0;
+}
+
+#wrapper #second #right{
+    width: 50%;
+    height: 600px;
+    float: right;
+    overflow: hidden;
+    margin-top: 40px;
+        padding: 0;
+}
+
+#wrapper #third{
+    height: 600px;
+    width: 100%
+    padding:0;
+    margin: 0;
+    background-color:  #76bd7d ;
+}
+
+#boxx img{
+    height: 30px;
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 120px;
+    
+
+}
+
+#boxx p{
+    text-align: center;
+    
+
+}
+
+#wrapper #third h3{
+    text-align: center;
+    color: white;
+    padding: 0;
+    margin: 0;
+    padding-top: 50px;
+}
+
+#wrapper #third #d1{
+    margin: 30px 30px;
+    height: 100%;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    background-color: #76bd7d;    
+    border: 1px solid white;
+    border-radius: 4px;
+    resize: none;
+    margin-top: 30px;
+    te
+}
+
+input[type=text] {
+    margin-top: 20px;
+    width: 40%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+    background-color: #76bd7d;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+}
+
+#button1{
+    border-radius: 10px;
+    padding: 10px;
+    border: solid white;
+    text-align: center;
+        background-color: #76bd7d;
+
+    margin-left: 40%;
+    font-size: 16px;
+    color: white;
+    width: 250px;
+    font-size: 20px;
+}
+
+#d2{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 35px;
+
+}
+
+#prac{
+    overflow: hidden;
+    padding: 0;
+}
+
+#name{
+    float: left;
+    padding: 0;
+    width: 50%;
+    margin: 0;
+}
+
+#emale{
+    float: right;
+    padding: 0;
+    width: 50%;
+    margin: 0;
+}
+
+
+
+
+
+
+
